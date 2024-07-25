@@ -8,10 +8,12 @@ I have developed a python model to predict whether the person has heart disease 
 
 1. Clone the repository files. 
 
-2. Then upload the "Heart_Disease_Prediction_Model.ipynb" file to your google colab.
+2. Then upload the jupyter notebook file "Heart_Disease_Prediction_Model.ipynb" and dataset file "heart_disease_data.csv" file to your google colab. 
 
-3. Run the file in google colab.
+3. Note that the dataset file must be in the same folder as ipynb file or else you have to update the path of the dataset in ipynb file.
 
-3. See the comments and output of each cell. Try to learn from it.
+4. Run the file in google colab.
 
-4. This project was very useful to understand the concepts of Python and Machine Learning.
+5. See the comments and output of each cell. Try to learn from it.
+
+6. This project was very useful to understand the concepts of Python and Machine Learning.
